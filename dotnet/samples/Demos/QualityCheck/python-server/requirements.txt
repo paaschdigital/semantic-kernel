@@ -6,3 +6,5 @@ nltk
 evaluate
 cmake
 unbabel-comet
+pillow>=10.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
+transformers>=4.36.0 # not directly required, pinned by Snyk to avoid a vulnerability
